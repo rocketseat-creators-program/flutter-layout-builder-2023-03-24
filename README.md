@@ -2,7 +2,7 @@
 
 # Flutter LayoutBuilder
 
-Neste projeto é apresentado como usar o widget [LayoutBuilder][3] no [Flutter][2]. O LayoutBuiler é um widget do Flutter
+Neste projeto é apresentado como usar o widget [LayoutBuilder][3] no [Flutter][2]. O LayoutBuilder é um widget do Flutter
 que auxilia a criação de layouts responsivos, uma vez que ele traz o BoxContraints que tem as propriedades como MaxWidth e MaxHeight, posibilitando observar os beaksPoints (Quebra de Layout) das aplicações. 
 
 Apresentado por [Alessandro Dutra de Andrade (Cachopaweb)][1].
